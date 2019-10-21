@@ -35,6 +35,7 @@ $ adb remount
 remount succeeded
 ```
 
+Small script that writes only date to a file as log.
 Script in ```heroappslog.sh```
 ```shell
 while :
